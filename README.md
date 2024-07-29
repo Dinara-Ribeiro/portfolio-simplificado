@@ -5,7 +5,7 @@
 
 ## Conecte-se comigo: ##
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_nome)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinara-waltrich-85b3262ab/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinaraf.waltrich)
 
